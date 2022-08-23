@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tk4kz.github.io/gptest5/sitemap.xml
